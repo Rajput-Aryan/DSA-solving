@@ -24,5 +24,18 @@
     "solvedAt": "2026-08-28T11:45:40.760Z",
     "path": "GeeksforGeeks/arrays/sum-all-array-elements",
     "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1"
+  },
+  {
+    "key": "geeksforgeeks:count-of-smaller-elements5947",
+    "title": "Count Smaller in an Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-08-28T12:28:44.272Z",
+    "path": "GeeksforGeeks/arrays/count-of-smaller-elements5947",
+    "url": "https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1"
   }
 ]
