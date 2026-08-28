@@ -1,0 +1,15 @@
+[
+  {
+    "key": "geeksforgeeks:print-alternate-elements-of-an-array",
+    "title": "Alternates in an Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-08-28T11:14:00.816Z",
+    "path": "GeeksforGeeks/arrays/print-alternate-elements-of-an-array",
+    "url": "https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1"
+  }
+]
