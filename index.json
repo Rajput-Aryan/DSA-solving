@@ -11,5 +11,18 @@
     "solvedAt": "2026-08-28T10:55:43.201Z",
     "path": "GeeksforGeeks/arrays/sum-all-array-elements",
     "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1"
+  },
+  {
+    "key": "geeksforgeeks:print-alternate-elements-of-an-array",
+    "title": "Alternates in an Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-08-28T11:05:58.824Z",
+    "path": "GeeksforGeeks/arrays/print-alternate-elements-of-an-array",
+    "url": "https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1"
   }
 ]
