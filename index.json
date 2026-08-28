@@ -3,11 +3,13 @@
     "key": "geeksforgeeks:sum-all-array-elements",
     "title": "Sum of Array",
     "platform": "geeksforgeeks",
-    "difficulty": "Unknown",
-    "topics": [],
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
     "language": "c++",
-    "solvedAt": "2026-08-28T10:50:25.353Z",
-    "path": "GeeksforGeeks/Misc/sum-all-array-elements",
+    "solvedAt": "2026-08-28T10:55:43.201Z",
+    "path": "GeeksforGeeks/arrays/sum-all-array-elements",
     "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1"
   }
 ]
