@@ -115,5 +115,18 @@
     "solvedAt": "2026-09-01T11:53:13.362Z",
     "path": "GeeksforGeeks/arrays/find-the-fine4353",
     "url": "https://www.geeksforgeeks.org/problems/find-the-fine4353/1"
+  },
+  {
+    "key": "geeksforgeeks:product-of-maximum-in-first-array-and-minimum-in-second3943",
+    "title": "Max and Min Product from 2 Arrays",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-01T12:04:40.585Z",
+    "path": "GeeksforGeeks/arrays/product-of-maximum-in-first-array-and-minimum-in-second3943",
+    "url": "https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1"
   }
 ]
