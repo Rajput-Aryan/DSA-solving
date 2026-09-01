@@ -128,5 +128,18 @@
     "solvedAt": "2026-09-01T12:04:40.585Z",
     "path": "GeeksforGeeks/arrays/product-of-maximum-in-first-array-and-minimum-in-second3943",
     "url": "https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1"
+  },
+  {
+    "key": "geeksforgeeks:reverse-an-array",
+    "title": "Reverse an Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-01T12:09:32.170Z",
+    "path": "GeeksforGeeks/arrays/reverse-an-array",
+    "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
   }
 ]
