@@ -63,5 +63,18 @@
     "solvedAt": "2026-08-31T05:16:03.809Z",
     "path": "GeeksforGeeks/arrays/count-odd-even",
     "url": "https://www.geeksforgeeks.org/problems/count-odd-even/1"
+  },
+  {
+    "key": "geeksforgeeks:array-traversal",
+    "title": "Array Traversal",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-09-01T11:07:35.473Z",
+    "path": "GeeksforGeeks/arrays/array-traversal",
+    "url": "https://www.geeksforgeeks.org/problems/array-traversal/1"
   }
 ]
