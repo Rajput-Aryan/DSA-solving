@@ -76,5 +76,18 @@
     "solvedAt": "2026-09-01T11:07:35.473Z",
     "path": "GeeksforGeeks/arrays/array-traversal",
     "url": "https://www.geeksforgeeks.org/problems/array-traversal/1"
+  },
+  {
+    "key": "geeksforgeeks:max-length-chain",
+    "title": "Sum Except First and Last",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Mathematical"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-01T11:11:13.083Z",
+    "path": "GeeksforGeeks/mathematical/max-length-chain",
+    "url": "https://www.geeksforgeeks.org/problems/max-length-chain/1"
   }
 ]
