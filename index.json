@@ -141,5 +141,18 @@
     "solvedAt": "2026-09-01T12:09:32.170Z",
     "path": "GeeksforGeeks/arrays/reverse-an-array",
     "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
+  },
+  {
+    "key": "geeksforgeeks:move-all-negative-elements-to-end1813",
+    "title": "Move all negative elements to end",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-03T11:18:25.273Z",
+    "path": "GeeksforGeeks/arrays/move-all-negative-elements-to-end1813",
+    "url": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1"
   }
 ]
