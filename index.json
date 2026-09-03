@@ -154,5 +154,18 @@
     "solvedAt": "2026-09-03T11:18:25.273Z",
     "path": "GeeksforGeeks/arrays/move-all-negative-elements-to-end1813",
     "url": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1"
+  },
+  {
+    "key": "geeksforgeeks:array-of-alternate-ve-and-ve-nos1401",
+    "title": "Alternate Positive Negative",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-03T11:46:44.103Z",
+    "path": "GeeksforGeeks/arrays/array-of-alternate-ve-and-ve-nos1401",
+    "url": "https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1"
   }
 ]
