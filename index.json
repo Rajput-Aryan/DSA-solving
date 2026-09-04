@@ -167,5 +167,18 @@
     "solvedAt": "2026-09-03T11:46:44.103Z",
     "path": "GeeksforGeeks/arrays/array-of-alternate-ve-and-ve-nos1401",
     "url": "https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1"
+  },
+  {
+    "key": "geeksforgeeks:perfect-arrays4645",
+    "title": "Palindrome Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-04T09:51:52.772Z",
+    "path": "GeeksforGeeks/arrays/perfect-arrays4645",
+    "url": "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
   }
 ]
