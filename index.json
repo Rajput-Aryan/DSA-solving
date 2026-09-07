@@ -180,5 +180,18 @@
     "solvedAt": "2026-09-04T09:51:52.772Z",
     "path": "GeeksforGeeks/arrays/perfect-arrays4645",
     "url": "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
+  },
+  {
+    "key": "geeksforgeeks:segregate-0s-and-1s5106",
+    "title": "Segregate 0s and 1s",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-09-07T09:34:29.813Z",
+    "path": "GeeksforGeeks/arrays/segregate-0s-and-1s5106",
+    "url": "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
   }
 ]
