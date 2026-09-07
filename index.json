@@ -219,5 +219,18 @@
     "solvedAt": "2026-09-07T11:26:04.752Z",
     "path": "GeeksforGeeks/arrays/rotate-array-by-n-elements-1587115621",
     "url": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
+  },
+  {
+    "key": "geeksforgeeks:k-th-element-of-two-sorted-array1317",
+    "title": "K-th of Two Sorted Arrays",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-07T11:39:48.902Z",
+    "path": "GeeksforGeeks/arrays/k-th-element-of-two-sorted-array1317",
+    "url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
   }
 ]
