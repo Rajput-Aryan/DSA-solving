@@ -206,5 +206,18 @@
     "solvedAt": "2026-09-07T10:57:57.152Z",
     "path": "GeeksforGeeks/arrays/convert-array-into-zig-zag-fashion1638",
     "url": "https://www.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1"
+  },
+  {
+    "key": "geeksforgeeks:rotate-array-by-n-elements-1587115621",
+    "title": "Rotate Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-09-07T11:26:04.752Z",
+    "path": "GeeksforGeeks/arrays/rotate-array-by-n-elements-1587115621",
+    "url": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
   }
 ]
