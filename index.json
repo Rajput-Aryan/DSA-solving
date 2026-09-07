@@ -193,5 +193,18 @@
     "solvedAt": "2026-09-07T09:34:29.813Z",
     "path": "GeeksforGeeks/arrays/segregate-0s-and-1s5106",
     "url": "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
+  },
+  {
+    "key": "geeksforgeeks:convert-array-into-zig-zag-fashion1638",
+    "title": "Convert To Zig-Zag",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-07T10:57:57.152Z",
+    "path": "GeeksforGeeks/arrays/convert-array-into-zig-zag-fashion1638",
+    "url": "https://www.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1"
   }
 ]
