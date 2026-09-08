@@ -245,5 +245,19 @@
     "solvedAt": "2026-09-08T06:31:31.346Z",
     "path": "GeeksforGeeks/strings/reverse-a-string",
     "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1"
+  },
+  {
+    "key": "leetcode:two-sum",
+    "title": "Two Sum",
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "cpp",
+    "solvedAt": "2026-09-08T12:02:12.979Z",
+    "path": "LeetCode/array/Easy/two-sum",
+    "url": "https://leetcode.com/problems/two-sum/submissions/2135063065/"
   }
 ]
